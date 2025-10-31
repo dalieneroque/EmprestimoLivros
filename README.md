@@ -17,11 +17,11 @@ Bem-vindo(a) à **EmprestimoLivros API** — um projeto desenvolvido em **ASP.NE
 
 ## 🧩 Funcionalidades
 
-✅ Cadastro de livros  
-✅ Registro de empréstimos e devoluções  
-✅ Controle de usuários   
-✅ Documentação automática com Swagger
-✅ Criar endpoints usando os verbos HTTP: GET POST PUT DELETE
+✅ Cadastro de livros<br>  
+✅ Registro de empréstimos e devoluções<br>  
+✅ Controle de usuários<br>   
+✅ Documentação automática com Swagger<br>
+✅ Criar endpoints usando os verbos HTTP: GET POST PUT DELETE<br>
 ✅ Configuração e inicialização na classe Program
 
 ---
