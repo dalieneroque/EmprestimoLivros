@@ -7,11 +7,11 @@ Bem-vindo(a) à **EmprestimoLivros API** — um projeto desenvolvido em **ASP.NE
 ## 🚀 Tecnologias Utilizadas
 
 - **C#**  
-- **.NET 8.0**  
+- **ASP.NET Core 8.0**  
 - **Entity Framework Core**  
-- **SQL Server**  
+- **Banco de Dados MySQL**  
 - **Swagger / OpenAPI**  
-- **Visual Studio 2022**
+- **Visual Studio 2022 Community**
 
 ---
 
@@ -19,9 +19,10 @@ Bem-vindo(a) à **EmprestimoLivros API** — um projeto desenvolvido em **ASP.NE
 
 ✅ Cadastro de livros  
 ✅ Registro de empréstimos e devoluções  
-✅ Controle de usuários (alunos, professores, etc.)  
-✅ Relatórios de livros disponíveis e emprestados  
+✅ Controle de usuários   
 ✅ Documentação automática com Swagger
+✅ Criar endpoints usando os verbos HTTP: GET POST PUT DELETE
+✅ Configuração e inicialização na classe Program
 
 ---
 
