@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EmprestimoLivros.API.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace EmprestimoLivros.API.Context
 {
