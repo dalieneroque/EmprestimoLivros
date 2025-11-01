@@ -1,6 +1,13 @@
+# 🖥️ Backend .NET - Documentação
 # 📚 EmprestimoLivros API
 
-Bem-vindo(a) à **EmprestimoLivros API** — um projeto desenvolvido em **ASP.NET Core Web API**, com o objetivo de gerenciar empréstimos de livros de forma prática, moderna e escalável.
+Bem-vindo(a) à **EmprestimoLivros API** — um projeto desenvolvido em **ASP.NET Core Web API**, com o objetivo de gerenciar **empréstimos de livros** de forma prática, moderna e escalável.
+
+---
+
+## 📌 Descrição do Projeto
+
+Este projeto foi criado com o propósito de aprimorar habilidades em desenvolvimento backend com .NET, aplicando boas práticas como injeção de dependência, padrões de repositório, e mapeamento com DTOs.
 
 ---
 
@@ -17,12 +24,12 @@ Bem-vindo(a) à **EmprestimoLivros API** — um projeto desenvolvido em **ASP.NE
 
 ## 🧩 Funcionalidades
 
-✅ Cadastro de livros<br>  
-✅ Registro de empréstimos e devoluções<br>  
-✅ Controle de usuários<br>   
-✅ Documentação automática com Swagger<br>
-✅ Criar endpoints usando os verbos HTTP: GET POST PUT DELETE<br>
-✅ Configuração e inicialização na classe Program
+✅ Cadastro de livros  
+✅ Registro de empréstimos e devoluções  
+✅ Controle de usuários  
+✅ Documentação automática com Swagger  
+✅ Criação de endpoints usando os verbos HTTP: `GET`, `POST`, `PUT`, `DELETE`  
+✅ Configuração e inicialização centralizadas na classe `Program`
 
 ---
 
@@ -31,12 +38,6 @@ Bem-vindo(a) à **EmprestimoLivros API** — um projeto desenvolvido em **ASP.NE
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/SeuUsuario/EmprestimoLivros.git
-
----
-
-## 🧠 Sobre o Projeto
-
-Este projeto foi criado com o propósito de aprimorar habilidades em desenvolvimento backend com .NET, aplicando boas práticas como injeção de dependência, padrões de repositório, e mapeamento com DTOs.
 
 ---
 
@@ -52,7 +53,7 @@ Este projeto está licenciado sob a Licença MIT — veja o arquivo [LICENSE](ht
 Daliene Nonato Lima Roque <br>
 💼 Engenheira de Software e Desenvolvedora Backend em formação <br>
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/daliene-nonato-lima-roque-a5b167269/) | [GitHub](https://github.com/DalieneRoque)
-
+   git clone https://github.com/SeuUsuario/EmprestimoLivros.git
 
 
 
